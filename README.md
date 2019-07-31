@@ -1,4 +1,4 @@
-# Deployer
+# Deployer, without symfony/yaml
 
 <a href="https://travis-ci.org/deployphp/deployer"><img src="https://travis-ci.org/deployphp/deployer.svg?branch=master" alt="Build Status"></a>
 <a href="https://scrutinizer-ci.com/g/deployphp/deployer/"><img src="https://img.shields.io/scrutinizer/g/deployphp/deployer.svg?style=flat" alt="Code Quality"></a>
